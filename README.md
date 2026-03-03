@@ -129,19 +129,6 @@
 
 </div>
 
----
-
-## 👨‍💻 Weekly Development Breakdown
-
-```text
-JavaScript/TypeScript  ████████████████████ 85%
-React/Next.js          ██████████████████ 80%
-Node.js/Backend        ████████████████ 70%
-Database/SQL           ████████████ 60%
-DevOps/Cloud           ████████ 40%
-```
-
----
 
 ## 🎯 Skill Progression
 
@@ -163,21 +150,6 @@ Git → Docker → AWS → CI/CD → Microservices
 ★★★★★ ★★★★☆ ★★★☆☆ ★★★☆☆ ★★☆☆☆
 ```
 
----
-
-## 📚 Learning Roadmap 2024
-
-- [x] **Master React & Next.js** - `A+ Level`
-- [x] **Advanced TypeScript Patterns** - `A Level`
-- [x] **Backend Architecture & Design** - `A Level`
-- [ ] **Cloud Infrastructure (AWS)** - `In Progress`
-- [ ] **System Design & Scalability** - `Next`
-- [ ] **Advanced Database Optimization** - `Planned`
-- [ ] **Mobile Development (React Native)** - `Future`
-
----
-
-## 🏅 Certifications & Achievements
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
