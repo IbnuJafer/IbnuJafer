@@ -29,23 +29,6 @@ MongoDB, MySQL, SQL Server, Prisma
 
 ### **Tools & Technologies**
 ```
-Git → Docker → AWS → CI/CD → Microservices
+Git → Docker → AWS → CI/CD → Vs
 
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-Certified-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
-
-## 🚀 **Let's Build Amazing Digital Experiences**
-
-![Visitor Count](https://komarev.com/ghpvc/?username=abdellah&color=00FF00&style=for-the-badge&label=PROFILE+VIEWS)
-
-**🎯 Status: Available for Freelance | 💼 Open to Opportunities**
-
-</div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
 
