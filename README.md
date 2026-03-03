@@ -18,38 +18,6 @@
 - **API Development**: RESTful APIs and backend services
 - **Database Design**: Relational and non-relational database systems
 
-### **Frontend Ecosystem**
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-### **Backend & Database**
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### **Tools & Technologies**
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-</p>
-
----
-
 ## 🚀 Current Deep Dives
 
 ### **Modern Frontend Development**
@@ -69,33 +37,6 @@
 - **Real-time Features**: WebSockets and real-time data synchronization
 - **DevOps & Deployment**: CI/CD pipelines and cloud infrastructure
 - **Performance Optimization**: Lighthouse scores and Core Web Vitals
-
----
-
-## 💼 Elite Projects Showcase
-
-### 🚀 **Modern E-Commerce Platform** [![Live Demo](https://img.shields.io/badge/🚀_LIVE-00C851?style=for-the-badge)](https://abdellah.vercel.app)
-*Next.js • React • Node.js • MongoDB*
-- Full-stack e-commerce with advanced filtering and search
-- Real-time inventory management and order processing
-- Secure payment integration and user authentication
-- **Tech**: `Next.js` `TypeScript` `MongoDB` `Stripe` `JWT`
-
-### 📊 **Business Analytics Dashboard** [![React](https://img.shields.io/badge/⚛️_REACT-61DAFB?style=for-the-plastic&logo=react)](https://github.com/abdellah)
-*React • Node.js • Express • PostgreSQL*
-- Interactive data visualizations and real-time metrics
-- Custom reporting and export functionality
-- Role-based access control and multi-tenant architecture
-- **Tech**: `React` `Chart.js` `Express` `PostgreSQL` `D3.js`
-
-### 🔧 **Project Management Tool** [![Node.js](https://img.shields.io/badge/🟢_NODE.js-339933?style=for-the-plastic&logo=node.js)](https://github.com/abdellah)
-*MERN Stack • Socket.io • AWS*
-- Real-time collaboration and task management
-- File uploads and cloud storage integration
-- Team communication and progress tracking
-- **Tech**: `MongoDB` `Express` `React` `Node.js` `Socket.io`
-
----
 
 ## 📊 GitHub Analytics
 
@@ -158,43 +99,6 @@ Git → Docker → AWS → CI/CD → Microservices
   <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
----
-
-## 📬 Strategic Connections
-
-<p align="center">
-  <a href="mailto:abdellah@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/abdellah">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/abdellah">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://abdellah.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 📝 Technical Blog Highlights
-
-- [**Mastering React Hooks: Advanced Patterns and Best Practices**](https://blog.abdellah.com/react-hooks)
-- [**Building Scalable Node.js Applications: Architecture and Patterns**](https://blog.abdellah.com/node-architecture)
-- [**TypeScript for Enterprise: Advanced Type Patterns and Safety**](https://blog.abdellah.com/ts-enterprise)
-- [**Full-Stack Development: Modern Tools and Workflows**](https://blog.abdellah.com/fullstack-tools)
-
----
-
-## 💡 Development Philosophy
-
-> *"I believe in creating software that not only solves problems but also delivers exceptional user experiences. My approach combines robust backend architecture with intuitive frontend design, ensuring applications are scalable, maintainable, and user-friendly."*
-
----
-
-<div align="center">
 
 ## 🚀 **Let's Build Amazing Digital Experiences**
 
